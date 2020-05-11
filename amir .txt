@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>table layout amir</title>
+</head>
+
+<body>
+<table style="width: 900" align="center">
+<tr>
+	<td colspan="3">
+	<img src="<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>table layout amir</title>
+</head>
+
+<body>
+<table style="width: 900" align="center">
+<tr>
+	<td colspan="3">
+	<img src="https://logos-download.com/wp-content/uploads/2016/05/Manchester_United_logo_logotype_crest-691x700.png" width="900">
+	</td>
+	</tr>
+	<tr valign="top">
+	<td colspan="2" width="400">
+	<b>Hyperlink</b><br>
+                <ul style=list-style-type:square:">
+	       <li><a href="https://www.manutd.com/en">Home</a></li>
+	        <li><a href="https://www.manutd.com/en/players-and-staff/detail/bruno-fernandes">Biodata</a></li>
+	         <li><a href="https://www.manutd.com/en/help/club-contacts?int_source=manutd.com&int_medium=menu&int_campaign=generic&int_content=more_help_contactus">Contact</a></li>
+	</ul>
+	<td width="200" bgcolor="ceccbca">	
+	
+	</tr>
+	<tr valign="bottom">"3" 
+	     <td colspan="3" width="600">
+	<b>2 paragraph of text</b><br>
+	 <p> The Portuguese star has given Ole Gunnar Solskjaer’s side a creative outlet so often missing at United in recent years, and the presence of a dedicated defence-splitting creative midfielder means they are no longer over-reliant on counter attacks to kill off stubborn opponents.</p>
+	
+
+	<p> Manchester United boss Ole Gunnar Solskjaer compared Jordan's leadership to Roy Keane, but in his current squad he has two players who have shown the kind of character that will take you to league titles.</p>
+
+    </td>
+</tr>
+	<td colspan="3" width="900" height="100">
+	        <b>This is a footer</b>
+	</td>
+	</table>
+	</body>
+	</html>" 
